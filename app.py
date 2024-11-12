@@ -131,6 +131,8 @@ def delete():
    
     # Redirect the user back to the home page after submission
     return redirect(url_for('index'))
+
+
 # Run the Flask application
 if __name__ == '__main__':
     # Setting debug=True for development; it auto-reloads when you make changes
