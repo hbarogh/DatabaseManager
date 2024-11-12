@@ -1,5 +1,5 @@
 # Store Database Management System, Project Phase 3
-This is a web application built using Flask, MYSQL, HTML, and CSS that allows users to manage the store database. Users can add, update, delete, and view specific items based on various criteria. 
+This is a web application built using Flask, MYSQL, HTML, and CSS that allows users to manage the store database. Users can add, update, delete, and view specific items based on various criteria. This web application is currently only being used and run locally. 
 
 ---
 
