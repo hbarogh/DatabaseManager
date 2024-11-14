@@ -1,7 +1,6 @@
 '''
 Names: Hayden Barogh and Shivam Khokhani
-ID For Hayden: 1001991538
-ID For Shivam: 1002052123
+
 '''
 
 # Import the necessary modules from Flask and MySQL connector
